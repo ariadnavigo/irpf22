@@ -14,6 +14,8 @@ and style of Go. It can certainly be improved, but bear in mind this is my
 first time using the language. It was a lot of fun getting my feet wet with a 
 new language, though!
 
+**This repository is no longer actively maintained.**
+
 ## Build
 
 Build as you would with any other simple Go program:
